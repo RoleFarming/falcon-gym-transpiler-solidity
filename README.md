@@ -1,6 +1,6 @@
 # `falcon-gym-transpiler-solidity`
 
-![NodeJs](https://github.com/sambacha/falcon-gym-transpiler-solidity/workflows/NodeJs/badge.svg)
+![Falcon Gym DNN](https://raw.githubusercontent.com/RoleFarming/falcon-gym-transpiler-solidity/master/logo/falcon-gym.jpg)
 
 Falcon Gym Transpliter Solidity is a library of easy to use and performant reinforcement learning environments for translplit Ethereum Solidty smart contracts to Casper Rust smart contracts. It allows ML researchers to interact with important smart contract  translation problems in a language and vocabulary with which they are comfortable, and provides a toolkit for systems developers to expose new smart contract languages for ML research. We aim to act as a catalyst for making smart contract compilers faster using ML
 
