@@ -1,6 +1,8 @@
-# `transpiler-solidity`
+# `falcon-gym-transpiler-solidity`
 
-![NodeJs](https://github.com/sambacha/transpiler-solidity/workflows/NodeJs/badge.svg)
+![NodeJs](https://github.com/sambacha/falcon-gym-transpiler-solidity/workflows/NodeJs/badge.svg)
+
+Falcon Gym Transpliter Solidity is a library of easy to use and performant reinforcement learning environments for translplit Ethereum Solidty smart contracts to Casper Rust smart contracts. It allows ML researchers to interact with important smart contract  translation problems in a language and vocabulary with which they are comfortable, and provides a toolkit for systems developers to expose new smart contract languages for ML research. We aim to act as a catalyst for making smart contract compilers faster using ML
 
 A transpiler to Solidity that adds GCC macros and helper functions.
 
@@ -23,8 +25,8 @@ and language features to make Solidity Assembly more managable.
 **_Usage_**
 
 ```
-npm i -g transpiler-solidity
-transpiler-solidity file.sol > output.sol
+npm i -g falcon-gym-transpiler-solidity
+falcon-gym-transpiler-solidity file.sol > output.sol
 ```
 
 ## Added Assembly Functions
